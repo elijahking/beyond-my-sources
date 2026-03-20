@@ -236,6 +236,7 @@ const defaultSources = [
   //"filter-source-white-plume-mountain",
   "filter-source-xanathars-guide-to-everything",
   "filter-source-helianas-guide-to-monster-hunting-part-1",
+  "filter-source-helianas-guide-to-monster-hunting-part-2",
   "filter-source-the-griffons-saddlebag-book-two",
   "filter-source-faster-purple-worm-everybody-dies-vol-1"
 ];
