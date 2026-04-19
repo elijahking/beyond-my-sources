@@ -130,6 +130,7 @@ const localStorageSources = getSourceFilters()
 
 // comment out sources you don't own
 const defaultSources = [
+  "filter-source-abomination-vaults",
   //"filter-source-acquisitions-incorporated",
   //"filter-source-adventure-atlas-the-mortuary",
   //"filter-source-against-the-giants",
@@ -223,7 +224,7 @@ const defaultSources = [
   //"filter-source-thieves-gallery",
   //"filter-source-tomb-of-annihilation",
   //"filter-source-tomb-of-horrors",
-  //"filter-source-tome-of-beasts-1",
+  "filter-source-tome-of-beasts-1",
   "filter-source-tyranny-of-dragons",
   "filter-source-van-richtens-guide-to-ravenloft",
   //"filter-source-vecna-eve-of-ruin",
@@ -237,6 +238,7 @@ const defaultSources = [
   "filter-source-xanathars-guide-to-everything",
   "filter-source-helianas-guide-to-monster-hunting-part-1",
   "filter-source-helianas-guide-to-monster-hunting-part-2",
+  "filter-source-the-griffons-saddlebag-book-one",
   "filter-source-the-griffons-saddlebag-book-two",
   "filter-source-faster-purple-worm-everybody-dies-vol-1"
 ];
